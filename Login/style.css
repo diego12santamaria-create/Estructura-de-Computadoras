@@ -1,0 +1,65 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&family=Bitcount+Single:wght@100..900&family=Black+Ops+One&family=Bungee&family=Fredericka+the+Great&family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Rowdies:wght@300;400;700&family=Rubik+Doodle+Shadow&family=Satisfy&display=swap');
+
+
+
+body {
+    background-color: #3A506B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    font-family: "Lobster", sans-serif;
+    
+} 
+
+form {
+    background-color:#0B132B;
+    padding: 25px;
+    text-align: center;
+    border: 10px solid #1C2541;
+    border-radius: 10px;
+     
+}
+
+form h1 {
+    text-align: center;
+    color: #9C7A54;
+    margin-bottom: 30px;
+    
+}
+
+form .input-usuario {
+    padding: 2px 0px 2px 20px ;
+    margin-bottom: 20px;
+    outline: none;
+    font-size: 20px;
+}
+
+form h2 {
+    text-align: center;
+    margin-bottom: 5px;
+    color:#FBE5C8;
+} 
+
+.boton-redireccion {
+    background-color: #B8860B;
+    border: none;
+    color: black;
+    padding: 5px 20px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    border-radius: 5px;
+}
+
+.button {
+    background-color: #B8860B;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 20px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    font-family: "Lobster", sans-serif;
+}
