@@ -1,0 +1,15 @@
+.Ticket { 
+  max-width: 450px;                      
+  margin: 70px auto;                     
+  padding: 50px;                        
+  border-radius: 12px;                   
+  background-color: #9c935f;             
+  font-family: Arial, sans-serif;       
+  color: #383636; 
+                       
+}
+
+.Ticket h1{
+    color: black;
+}
+   
